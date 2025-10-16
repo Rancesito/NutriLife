@@ -1,0 +1,7 @@
+{
+  "name": "NutriLife AI",
+  "description": "An intelligent nutrition app for people with diabetes and hypertension, offering personalized meal plans, AI-powered food scanning, and health monitoring with a futuristic interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
